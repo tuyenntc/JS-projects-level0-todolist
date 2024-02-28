@@ -1,7 +1,7 @@
 :root {
     --clr-primary: #8BD7D2
    
-    --clr-light: #
+    --clr-light: #f4f4f4
     --clr-dark: #333;
     --clr-warning: rgb(99, 36, 36);
 }
@@ -13,6 +13,7 @@
 }
 body {
     margin: 0;
+    margin-top: 50px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 300;
     font-size: 1.5rem;
